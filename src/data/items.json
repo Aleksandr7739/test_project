@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "laptop",
+        "price": 45.999,
+        "imgUrl": "/images/laptop.jpg"
+    },
+    {
+        "id": 2,
+        "name": "stereo system",
+        "price": 70.999,
+        "imgUrl": "/images/stereo.jpg"
+    },
+    {
+        "id": 3,
+        "name": "TV",
+        "price": 89.999,
+        "imgUrl": "/images/tv.jpg"
+    },
+    {
+        "id": 4,
+        "name": "washing machine",
+        "price": 40.999,
+        "imgUrl": "/images/wash.jpg"
+    },
+    {
+        "id": 5,
+        "name": "microwave",
+        "price": 40.999,
+        "imgUrl": "/images/microwave.jpg"
+    },
+    {
+        "id": 6,
+        "name": "fridge",
+        "price": 40.999,
+        "imgUrl": "/images/fridge.jpg"
+    }
+]
